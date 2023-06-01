@@ -49,7 +49,7 @@ To get a better understanding of our solution and its capabilities, we have prep
 
 To get started with our solution, please follow the instructions below:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/Lokesh-508/Healthcare-Fraud-Claim-Analysis.git`
 2. Install the required dependencies
 3. Configure the input data sources as per your needs.
 4. Run the solution
