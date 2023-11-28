@@ -43,7 +43,7 @@ You can access the dataset using the following link: [Dataset Link](https://driv
 
 ## Demo Video
 
-To get a better understanding of our solution and its capabilities, we have prepared a demo video. You can watch the video using the following link: [Demo Video Link](https://drive.google.com/file/d/1_oXnuKehrqeU_dBYPN2u9zwqECRD7kax/view?usp=drivesdk)
+To get a better understanding of our solution and its capabilities, we have prepared a demo video. You can watch the video using the following link: [Demo Video Link](https://youtu.be/ZhsqnyqGFqQ)
 
 ## Getting Started
 
